@@ -41,12 +41,6 @@
   "while"
 ] @keyword
 
-; Special keywords
-[
-  "this"
-  "super"
-] @variable.builtin
-
 ; Type keywords
 [
   "from"
